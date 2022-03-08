@@ -1086,9 +1086,9 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@orbit-ui/components@file:../sg-orbit/packages/components/orbit-ui-components-v5.1.13.tgz":
+"@orbit-ui/components@file:./orbit-ui-components-v5.1.13.tgz":
   version "5.1.13"
-  resolved "file:../sg-orbit/packages/components/orbit-ui-components-v5.1.13.tgz#d71879ba7d1e912ba7ea81393aabd961f5ed9e32"
+  resolved "file:./orbit-ui-components-v5.1.13.tgz#d71879ba7d1e912ba7ea81393aabd961f5ed9e32"
   dependencies:
     "@babel/runtime-corejs3" "*"
     "@orbit-ui/icons" "11.0.0"

@@ -13,7 +13,7 @@
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "@svgr/webpack": "6.2.1",
-    "@orbit-ui/components": "file://C:/Dev/sg-orbit/packages/components/orbit-ui-components-v5.1.13.tgz",
+    "@orbit-ui/components": "file:./orbit-ui-components-v5.1.13.tgz",
     "@orbit-ui/css": "2.0.0",
     "@orbit-ui/icons": "11.0.0",
     "next-transpile-modules": "9.0.0",

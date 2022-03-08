@@ -7,7 +7,6 @@ export function OrbitAccordion() {
     <Accordion>
         <Item key="mars">
             <H3>
-                {/* @ts-ignore */}
                 <NotificationIcon />
                 <Text>Mars</Text>
             </H3>
@@ -18,7 +17,6 @@ export function OrbitAccordion() {
         </Item>
         <Item key="jupiter">
             <H3>
-                {/* @ts-ignore */}
                 <InfoIcon />
                 <Text>Jupiter</Text>
             </H3>
@@ -28,7 +26,6 @@ export function OrbitAccordion() {
         </Item>
         <Item key="venus">
             <H3>
-                {/* @ts-ignore */}
                 <HelpIcon />
                 <Text>Venus</Text>
             </H3>
